@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Aleh Laliyeu
+HTML CSS Basics: https://www.codecademy.com/users/oleg.laliev.developer/achievements
